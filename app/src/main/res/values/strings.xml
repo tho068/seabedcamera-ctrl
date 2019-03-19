@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Seabed camera</string>
+    <string name="actions">Actions</string>
+    <string name="capture_image">Capture image</string>
+    <string name="capture_video">Capture video</string>
+    <string name="light1">Light 1</string>
+    <string name="light2">Light 2</string>
+    <string name="currentPressure">Pressure</string>
+    <string name="currentDepth">Depth</string>
+    <string name="currentPosition">Position</string>
+</resources>
